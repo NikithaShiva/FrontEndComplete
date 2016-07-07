@@ -1,0 +1,123 @@
+[
+  {
+    "title":"Kabali",
+    "releaseYear":"2016",
+    "language":"hindi",
+    "rating":"4",
+    "length":"192min",
+    "description":"Rajinikanth acted movie didn't released upto now .",
+   "actors": [
+      {
+        "firstName":"Rajinikanth",
+        "lastName":"kanth",
+        "gender":"male"
+
+      },
+     {
+       "firstName":"shreya",
+       "lastName":"devgan",
+       "gender":"female"
+
+     },
+     {
+       "firstName":"amrish",
+       "lastName":"puri",
+       "gender":"male"
+
+     }
+    ],
+    "album":{
+      "albumName":"a1",
+      "images":[
+        {
+          "url":"Image/hiavnr0r.jpg"
+
+        },{
+          "url":"images/filmPostersKabali.jpg"
+        }
+
+
+      ]
+
+
+    },
+"categories":[
+  {
+  "name":"drama"
+
+
+},
+  {
+    "name":"kollywood"
+  }],
+    "createDate":"1/2/2011",
+    "deleteDate":""
+
+
+
+
+  },
+  {
+    "title":"Bahubali",
+    "releaseYear":"2015",
+    "language":"telugu",
+    "rating":"4",
+    "length":"205min",
+    "description":"This is historical that about a kingdom called Mahismati and hero betrayed because of his cousin and died in the war the his son came to about this story and second part is remaining",
+    "actors": [
+      {
+        "firstName":"Prabash",
+        "lastName":"somwe",
+        "gender":"male"
+
+      },
+      {
+        "firstName":"anushka",
+        "lastName":"shetti",
+        "gender":"female"
+
+      },
+      {
+        "firstName":"tamana",
+        "lastName":"mukhrji",
+        "gender":"female"
+
+      }
+    ],
+    "album":{
+      "albumName":"a1",
+      "images":[
+        {
+          "url":"images/Bahubali1.jpg"
+
+        },{
+          "url":"images/Bahubali.jpg"
+        }
+
+
+      ]
+
+
+    },
+    "categories":[
+      {
+        "name":"TollyWood"
+
+
+      },
+      {
+        "name":"history"
+      }],
+
+    "createDate":"1/2/2011",
+    "deleteDate":""
+
+
+
+
+  }
+
+
+
+
+]
